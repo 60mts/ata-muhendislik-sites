@@ -1,9 +1,9 @@
 /*=== MEDIA QUERY ===*/
 /*
-Theme Name: Medic
+Theme Name: ATA Mühendislik
 Author: Themefisher
-Author URI: https://themefisher.com/
-Description: Medicle Template
+Author URI:
+Description:
 Version: 1.0.0
 
 */
@@ -1489,5 +1489,11 @@ a:focus {
   cursor: pointer;
   opacity: 1;
 }
+#social i{
 
+    margin-left:50px;
+    color:white;
+
+}
+#social i:hover{color:gray;}
 /*# sourceMappingURL=maps/style.css.map */
